@@ -36,4 +36,5 @@ Python · FastAPI · asyncio · WebSockets · Trading APIs · Redis · PostgreSQ
 
 ## Client Review
 
-<img width="613" height="314" alt="image" src="https://github.com/user-attachments/assets/710d7550-7f16-442a-822f-58fe4f6c5572" />
+<img width="753" height="252" alt="image" src="https://github.com/user-attachments/assets/aa1f5ccc-7bd6-440f-a020-f2ef49104ea4" />
+
